@@ -1,5 +1,3 @@
-# animated-neon-button-with-snake-border-and-reflection-effect
-
 ## Images
 ![image 1](/screenshots/neonButtons1.png)
 
